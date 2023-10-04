@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib>
 
 /**
  * main - A program that prints the
@@ -10,7 +9,7 @@
  * Return: Always 0 (success)
  **/
 
-int main(argc, char *argv[])
+int main(int argc, char *argv[])
 {
 	printf("%d\n", argc - 1);
 	(void)argv;
