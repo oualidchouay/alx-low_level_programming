@@ -1,4 +1,5 @@
-#include "function_pointer.h"
+#include <stddef.h>
+/* defines size_t */
 
 /**
  * array_iterator - executes a function given
