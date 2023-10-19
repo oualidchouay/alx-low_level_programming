@@ -6,18 +6,14 @@
  *
  * Return: The number of nodes in h.
  */
-
-size_t print_list(const list_t *h)
+size_t list_len(const list_t *h)
 {
-	size_t nodes = 0;
+	int count = 0;
 
 	while (h)
 	{
-		printf("[%d] %s\n", h->len, h->str ?: "(nil)");
-
-		nodes++;
+		count++;
 		h = h->next;
 	}
-
-	return (nodes);
+	return (count);
 }
