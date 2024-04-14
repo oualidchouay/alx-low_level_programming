@@ -28,6 +28,7 @@ Each folder in this repository illustrates an essential concept of programming, 
 * [0x13. C - More singly linked lists](./0x13-more_singly_linked_lists/)
 * [0x14. C - Bit manipulation](./0x14-bit_manipulation/)
 * [0x15. C - file_io](./0x15-file_io/)
+* [0x1A. C - Hash tables](./0x1A-hash_tables/)
 
 
 
