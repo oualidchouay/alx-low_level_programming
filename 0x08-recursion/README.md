@@ -17,10 +17,18 @@ Resources
 -   [C Programming Tutorial 85, Recursion pt.1](https://alx-intranet.hbtn.io/rltoken/Wv-wffgpXelN9ZTrbmiOyA "C Programming Tutorial 85, Recursion pt.1")
 -   [C Programming Tutorial 86, Recursion pt.2](https://alx-intranet.hbtn.io/rltoken/7GVdI-KT-M1vOIzwEjSahQ "C Programming Tutorial 86, Recursion pt.2")
 
+
+Additional Resources
+--------------------
+
+-	[Recursion & Recursive functions in C Programming](https://intranet.alxswe.com/rltoken/i6WmZGnd6--dFcoFHpgZmw "Recursion & Recursive functions in C Programming")
+
+
 Learning Objectives
 -------------------
 
 At the end of this project, you are expected to be able to [explain to anyone](https://alx-intranet.hbtn.io/rltoken/m6zCd6ius5xDzpuPxT4_aQ "explain to anyone"), **without the help of Google**:
+
 
 ### General
 
@@ -231,12 +239,12 @@ julien@ubuntu:~/0x08. Recursion$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x08-recursion`
 -   File: `3-factorial.c`
----------------------------------------------------------
+-----------------------------------------------------------
 
 
 
 
----------------------------------------------------------
+-----------------------------------------------------------
 ### 4\. Once an idea has taken hold of the brain it's almost impossible to eradicate
 
 Write a function that returns the value of `x` raised to the power of `y`.
@@ -419,6 +427,7 @@ julien@ubuntu:~/0x08. Recursion$
 ---------------------------------------------------------
 
 
+**advanced**
 
 
 ---------------------------------------------------------
@@ -473,8 +482,6 @@ julien@ubuntu:~/0x08. Recursion$
 -   File: `100-is_palindrome.c`
 ---------------------------------------------------------
 
-
-**advanced**
 
 
 ---------------------------------------------------------
