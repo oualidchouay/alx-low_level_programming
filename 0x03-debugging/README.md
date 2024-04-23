@@ -18,6 +18,7 @@ Debugging is the process of finding and fixing errors in software that prevents 
 
 ![af682f2cbb6d73fd4e42](https://github.com/oualidchouay/alx-low_level_programming/assets/135179972/86e35344-ae84-45ec-af77-db2eaacc424a)
 
+
 Learning Objectives
 -------------------
 
