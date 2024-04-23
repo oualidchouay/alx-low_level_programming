@@ -1,7 +1,7 @@
 0x1A. C - Hash tables
 =====================
 
--   By Julien Barbier
+
 
 Resources
 ---------
@@ -47,7 +47,6 @@ Requirements
 -   The prototypes of all your functions should be included in your header file called `hash_tables.h`
 -   Don't forget to push your header file
 -   All your header files should be include guarded
-
 
 
 More Info
