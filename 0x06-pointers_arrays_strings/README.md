@@ -30,9 +30,12 @@ Requirements
 Tasks
 -----
 
-### 0\. strcat
 
-mandatory
+**mandatory**
+
+
+---------------------------------------------------------
+### 0\. strcat
 
 Write a function that concatenates two strings.
 
@@ -82,12 +85,13 @@ julien@ubuntu:~/0x06$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x06-pointers_arrays_strings`
 -   File: `0-strcat.c`
+---------------------------------------------------------
 
- Done? Help
 
+
+
+---------------------------------------------------------
 ### 1\. strncat
-
-mandatory
 
 Write a function that concatenates two strings.
 
@@ -146,12 +150,13 @@ julien@ubuntu:~/0x06$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x06-pointers_arrays_strings`
 -   File: `1-strncat.c`
+---------------------------------------------------------
 
- Done? Help
 
+
+
+---------------------------------------------------------
 ### 2\. strncpy
-
-mandatory
 
 Write a function that copies a string.
 
@@ -230,12 +235,14 @@ julien@ubuntu:~/0x06$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x06-pointers_arrays_strings`
 -   File: `2-strncpy.c`
+---------------------------------------------------------
 
- Done? Help
 
+
+
+
+---------------------------------------------------------
 ### 3\. strcmp
-
-mandatory
 
 Write a function that compares two strings.
 
@@ -278,12 +285,13 @@ julien@ubuntu:~/0x06$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x06-pointers_arrays_strings`
 -   File: `3-strcmp.c`
+---------------------------------------------------------
 
- Done? Help
 
+
+
+---------------------------------------------------------
 ### 4\. I am a kind of paranoid in reverse. I suspect people of plotting to make me happy
-
-mandatory
 
 Write a function that reverses the content of an array of integers.
 
@@ -346,12 +354,13 @@ julien@ubuntu:~/0x06$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x06-pointers_arrays_strings`
 -   File: `4-rev_array.c`
+---------------------------------------------------------
 
- Done? Help
 
+
+
+---------------------------------------------------------
 ### 5\. Always look up
-
-mandatory
 
 Write a function that changes all lowercase letters of a string to uppercase.
 
@@ -390,12 +399,13 @@ julien@ubuntu:~/0x06$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x06-pointers_arrays_strings`
 -   File: `5-string_toupper.c`
+---------------------------------------------------------
 
- Done? Help
 
+
+
+---------------------------------------------------------
 ### 6\. Expect the best. Prepare for the worst. Capitalize on what comes
-
-mandatory
 
 Write a function that capitalizes all words of a string.
 
@@ -437,12 +447,13 @@ julien@ubuntu:~/0x06$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x06-pointers_arrays_strings`
 -   File: `6-cap_string.c`
+---------------------------------------------------------
 
- Done? Help
 
+
+
+---------------------------------------------------------
 ### 7\. Mozart composed his music not for the elite, but for everybody
-
-mandatory
 
 Write a function that encodes a string into [1337](https://alx-intranet.hbtn.io/rltoken/9v9KfpvWnL0GoMu5mozbug "1337").
 
@@ -495,11 +506,14 @@ julien@ubuntu:~/0x06$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x06-pointers_arrays_strings`
 -   File: `7-leet.c`
+---------------------------------------------------------
 
 
+**advanced**
+
+
+---------------------------------------------------------
 ### 8\. rot13
-
-#advanced
 
 Write a function that encodes a string using [rot13](https://alx-intranet.hbtn.io/rltoken/YRxmNA7BnP6yZhl09TKX3A "rot13").
 
@@ -563,12 +577,13 @@ julien@ubuntu:~/0x06$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x06-pointers_arrays_strings`
 -   File: `100-rot13.c`
+---------------------------------------------------------
 
- Done? Help Check your code
 
+
+
+---------------------------------------------------------
 ### 9\. Numbers have life; they're not just symbols on paper
-
-#advanced
 
 Write a function that prints an integer.
 
@@ -617,12 +632,13 @@ julien@ubuntu:~/0x06$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x06-pointers_arrays_strings`
 -   File: `101-print_number.c`
+---------------------------------------------------------
 
- Done? Help Check your code
 
+
+
+---------------------------------------------------------
 ### 10\. A dream doesn't become reality through magic; it takes sweat, determination and hard work
-
-#advanced
 
 ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/21b4fc5c1b5df84e6ae4fe8807aa359d929e748a.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU65GPZGY3%2F20210909%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210909T112251Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=19734984d34c3775ce10fae611a59f01ebfcf756e4c449099bed7e8b6ecaea64)
 
@@ -643,12 +659,13 @@ Add one line to [this code](https://github.com/holbertonschool/make_magic_happe
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x06-pointers_arrays_strings`
 -   File: `102-magic.c`
+---------------------------------------------------------
 
- Done? Help Check your code
 
+
+
+---------------------------------------------------------
 ### 11\. It is the addition of strangeness to beauty that constitutes the romantic character in art
-
-#advanced
 
 Write a function that adds two numbers.
 
@@ -739,12 +756,13 @@ julien@ubuntu:~/0x06$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x06-pointers_arrays_strings`
 -   File: `103-infinite_add.c`
+---------------------------------------------------------
 
- Done? Help Check your code
 
+
+
+---------------------------------------------------------
 ### 12\. Noise is a buffer, more effective than cubicles or booth walls
-
-#advanced
 
 Write a function that prints a buffer.
 
@@ -806,3 +824,4 @@ julien@ubuntu:~/0x06$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x06-pointers_arrays_strings`
 -   File: `104-print_buffer.c`
+---------------------------------------------------------

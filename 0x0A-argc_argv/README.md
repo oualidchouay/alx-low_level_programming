@@ -44,9 +44,12 @@ Requirements
 Tasks
 -----
 
-### 0\. It ain't what they call you, it's what you answer to
 
-mandatory
+**mandatory**
+
+
+---------------------------------------------------------
+### 0\. It ain't what they call you, it's what you answer to
 
 Write a program that prints its name, followed by a new line.
 
@@ -69,12 +72,13 @@ julien@ubuntu:~/0x0A. argc, argv$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x0A-argc_argv`
 -   File: `0-whatsmyname.c`
+---------------------------------------------------------
 
- Done? Help Check your code Get a sandbox
 
+
+
+---------------------------------------------------------
 ### 1\. Silence is argument carried out by other means
-
-mandatory
 
 Write a program that prints the number of arguments passed into it.
 
@@ -99,12 +103,13 @@ julien@ubuntu:~/0x0A. argc, argv$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x0A-argc_argv`
 -   File: `1-args.c`
+---------------------------------------------------------
 
- Done? Help Check your code Get a sandbox
 
+
+
+---------------------------------------------------------
 ### 2\. The best argument against democracy is a five-minute conversation with the average voter
-
-mandatory
 
 Write a program that prints all arguments it receives.
 
@@ -133,12 +138,13 @@ julien@ubuntu:~/0x0A. argc, argv$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x0A-argc_argv`
 -   File: `2-args.c`
+---------------------------------------------------------
 
- Done? Help Check your code Get a sandbox
 
+
+
+---------------------------------------------------------
 ### 3\. Neither irony nor sarcasm is argument
-
-mandatory
 
 Write a program that multiplies two numbers.
 
@@ -167,12 +173,13 @@ julien@ubuntu:~/0x0A. argc, argv$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x0A-argc_argv`
 -   File: `3-mul.c`
+---------------------------------------------------------
 
- Done? Help Check your code Get a sandbox
 
+
+
+---------------------------------------------------------
 ### 4\. To infinity and beyond
-
-mandatory
 
 Write a program that adds positive numbers.
 
@@ -200,12 +207,14 @@ julien@ubuntu:~/0x0A. argc, argv$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x0A-argc_argv`
 -   File: `4-add.c`
+---------------------------------------------------------
 
+
+**advanced**
+
+
+---------------------------------------------------------
 ### 5\. Minimal Number of Coins for Change
-
-#advanced
-
-Score: 0.00% (Checks completed: 0.00%)
 
 Write a program that prints the minimum number of coins to make change for an amount of money.
 
@@ -237,3 +246,4 @@ julien@ubuntu:~/0x0A. argc, argv$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x0A-argc_argv`
 -   File: `100-change.c`
+---------------------------------------------------------

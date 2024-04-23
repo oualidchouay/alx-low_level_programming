@@ -58,9 +58,12 @@ Requirements
 Tasks
 -----
 
-### 0\. Float like a butterfly, sting like a bee
 
-mandatory
+**mandatory**
+
+
+---------------------------------------------------------
+### 0\. Float like a butterfly, sting like a bee
 
 Write a function that creates an array of chars, and initializes it with a specific char.
 
@@ -142,10 +145,13 @@ julien@ubuntu:~/0x0a. malloc, free$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x0B-malloc_free`
 -   File: `0-create_array.c`
+---------------------------------------------------------
 
+
+
+
+---------------------------------------------------------
 ### 1\. The woman who has no imagination has no wings
-
-mandatory
 
 Write a function that returns a pointer to a newly allocated space in memory, which contains a copy of the string given as a parameter.
 
@@ -193,10 +199,13 @@ julien@ubuntu:~/0x0a. malloc, free$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x0B-malloc_free`
 -   File: `1-strdup.c`
+---------------------------------------------------------
 
+
+
+
+---------------------------------------------------------
 ### 2\. He who is not courageous enough to take risks will accomplish nothing in life
-
-mandatory
 
 Write a function that concatenates two strings.
 
@@ -242,10 +251,13 @@ julien@ubuntu:~/c/curriculum_by_julien/holbertonschool-low_level_programming/0x0
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x0B-malloc_free`
 -   File: `2-str_concat.c`
+---------------------------------------------------------
 
+
+
+
+---------------------------------------------------------
 ### 3\. If you even dream of beating me you'd better wake up and apologize
-
-mandatory
 
 Write a function that returns a pointer to a 2 dimensional array of integers.
 
@@ -328,10 +340,13 @@ julien@ubuntu:~/0x0a. malloc, free$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x0B-malloc_free`
 -   File: `3-alloc_grid.c`
+---------------------------------------------------------
 
+
+
+
+---------------------------------------------------------
 ### 4\. It's not bragging if you can back it up
-
-mandatory
 
 Write a function that frees a 2 dimensional grid previously created by your `alloc_grid` function.
 
@@ -427,10 +442,14 @@ julien@ubuntu:~/0x0a. malloc, free$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x0B-malloc_free`
 -   File: `4-free_grid.c`
+---------------------------------------------------------
 
+
+**advanced**
+
+
+---------------------------------------------------------
 ### 5\. It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe
-
-advanced
 
 Write a function that concatenates all the arguments of your program.
 
@@ -482,10 +501,13 @@ julien@ubuntu:~/0x0a. malloc, free$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x0B-malloc_free`
 -   File: `100-argstostr.c`
+---------------------------------------------------------
 
+
+
+
+---------------------------------------------------------
 ### 6\. I will show you how great I am
-
-advanced
 
 Write a function that splits a string into words.
 
@@ -551,4 +573,4 @@ julien@ubuntu:~/0x0a. malloc, free$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x0B-malloc_free`
 -   File: `101-strtow.c`
-
+---------------------------------------------------------
