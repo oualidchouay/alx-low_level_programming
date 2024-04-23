@@ -1,7 +1,7 @@
 0x12. C - Singly linked lists
 =============================
 
--   By Julien Barbier
+
 
 Concepts
 --------
@@ -79,9 +79,11 @@ typedef struct list_s
 Tasks
 -----
 
-### 0\. Print list
 
-mandatory
+**mandatory**
+
+------------------------------------------------------------------
+### 0\. Print list
 
 Write a function that prints all the elements of a `list_t` list.
 
@@ -151,10 +153,12 @@ julien@ubuntu:~/0x12. Singly linked lists$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x12-singly_linked_lists`
 -   File: `0-print_list.c`
+------------------------------------------------------------------
 
+
+
+------------------------------------------------------------------
 ### 1\. List length
-
-mandatory
 
 Write a function that returns the number of elements in a linked `list_t` list.
 
@@ -208,10 +212,13 @@ julien@ubuntu:~/0x12. Singly linked lists$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x12-singly_linked_lists`
 -   File: `1-list_len.c`
+------------------------------------------------------------------
 
+
+
+
+------------------------------------------------------------------
 ### 2\. Add node
-
-mandatory
 
 Write a function that adds a new node at the beginning of a `list_t` list.
 
@@ -307,10 +314,13 @@ julien@ubuntu:~/0x12. Singly linked lists$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x12-singly_linked_lists`
 -   File: `2-add_node.c`
+------------------------------------------------------------------
 
+
+
+
+------------------------------------------------------------------
 ### 3\. Add node at the end
-
-mandatory
 
 Write a function that adds a new node at the end of a `list_t` list.
 
@@ -406,10 +416,13 @@ julien@ubuntu:~/0x12. Singly linked lists$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x12-singly_linked_lists`
 -   File: `3-add_node_end.c`
+------------------------------------------------------------------
 
+
+
+
+------------------------------------------------------------------
 ### 4\. Free list
-
-mandatory
 
 Write a function that frees a `list_t` list.
 
@@ -472,10 +485,14 @@ julien@ubuntu:~/0x12. Singly linked lists$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x12-singly_linked_lists`
 -   File: `4-free_list.c`
+------------------------------------------------------------------
 
+
+**advanced**
+
+
+------------------------------------------------------------------
 ### 5\. The Hare and the Tortoise
-
-#advanced
 
 ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/de3291ccf5b255fff6ce37bfde7a13f481e7ed0c.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU65GPZGY3%2F20211007%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211007T225929Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=6db4ca2afd70e3afd4f78f3b573af13c643aa2e0f5b0e416cfc610129da219ed)
 
@@ -511,10 +528,13 @@ julien@ubuntu:~/$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x12-singly_linked_lists`
 -   File: `100-first.c`
+------------------------------------------------------------------
 
+
+
+
+------------------------------------------------------------------
 ### 6\. Real programmers can write assembly code in any language
-
-#advanced
 
 Write a 64-bit program in assembly that prints `Hello, Holberton`, followed by a new line.
 
@@ -535,3 +555,4 @@ julien@ubuntu:~/$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x12-singly_linked_lists`
 -   File: `101-hello_holberton.asm`
+------------------------------------------------------------------
