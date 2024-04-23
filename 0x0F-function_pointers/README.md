@@ -1,7 +1,7 @@
 0x0F. C - Function pointers
 ===========================
 
--   By Alexandre Gautier
+
 
 Resources
 ---------
@@ -14,6 +14,13 @@ Resources
 -   [why pointers to functions?](https://alx-intranet.hbtn.io/rltoken/1vvWpH9Ux8axOLc9jPWcMw "why pointers to functions?")
 -   [Everything you need to know about pointers in C](https://alx-intranet.hbtn.io/rltoken/G_0lQzs4LAd1e5tKhNMPiw "Everything you need to know about pointers in C")
 
+
+Additional Resources
+--------------------
+
+-	[Function pointers in C Programming & How to use them](https://intranet.alxswe.com/rltoken/Xt4O3p-a_3S3M82ApwVenA "Function pointers in C Programming & How to use them")
+
+
 Learning Objectives
 -------------------
 
@@ -24,6 +31,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 -   What are function pointers and how to use them
 -   What does a function pointer exactly hold
 -   Where does a function pointer point to in the virtual memory
+
 
 Requirements
 ------------
@@ -49,8 +57,11 @@ Requirements
 Tasks
 ------
 
+
+**mandatory**
+
+------------------------------------------------------------------
 ### 0\. What's my name
-mandatory
 
 Write a function that prints a name.
 
@@ -123,9 +134,13 @@ julien@ubuntu:~/0x0e. Function pointers$
 -    GitHub repository: `alx-low_level_programming`
 -   Directory: `0x0F-function_pointers`
 -    File: `0-print_name.c`
+------------------------------------------------------------------
 
+
+
+
+------------------------------------------------------------------
 ### 1\. If you spend too much time thinking about a thing, you'll never get it done
-mandatory
 
 Write a function that executes a function given as a parameter on each element of an array.
 
@@ -194,10 +209,13 @@ julien@ubuntu:~//0x0e. Function pointers$
 -    GitHub repository: `alx-low_level_programming`
 -    Directory: `0x0F-function_pointers`
 -    File: `1-array_iterator.c`
+------------------------------------------------------------------
 
 
+
+
+------------------------------------------------------------------
 ### 2\. To hell with circumstances; I create opportunities
-mandatory
 
 Write a function that searches for an integer.
 
@@ -279,10 +297,13 @@ julien@ubuntu:~/0x0e. Function pointers$
 -    GitHub repository: `alx-low_level_programming`
 -    Directory: `0x0F-function_pointers`
 -    File: `2-int_index.c`
+------------------------------------------------------------------
 
 
+
+
+------------------------------------------------------------------
 ### 3\. A goal is not always meant to be reached, it often serves simply as something to aim at
-mandatory
 
 Write a program that performs simple operations.
 
@@ -397,11 +418,14 @@ julien@ubuntu:~/0x0e. Function pointers$
 -    GitHub repository: `alx-low_level_programming`
 -    Directory: `0x0F-function_pointers`
 -    File: `3-main.c, 3-op_functions.c, 3-get_op_func.c, 3-calc.h`
+------------------------------------------------------------------
 
 
+**Advanced**
+
+
+------------------------------------------------------------------
 ### 4\. Most hackers are young because young people tend to be adaptable. As long as you remain adaptable, you can always be a good hacker
-
-#advanced
 
 Write a program that prints the [opcodes](https://alx-intranet.hbtn.io/rltoken/5eSu8Ohx0ddeNGmaeDo_zQ "opcodes") of its own main function.
 
@@ -454,3 +478,4 @@ julien@ubuntu:~/0x0e. Function pointers$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x0F-function_pointers`
 -   File: `100-main_opcodes.c`
+------------------------------------------------------------------
