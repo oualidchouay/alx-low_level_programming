@@ -30,10 +30,18 @@ Resources
 
 -   `ascii` (*You do not need to learn about `scanf`, `getc`, `getchar`, `EOF`, `EXIT_SUCCESS`, `time`, `rand`, `srand`, `RAND_MAX`, `for` loops, `do...while` loops, functions.*)
 
+
+Additional resources
+---------------------
+
+-	[Introduction to C (Basic structure and variables)](https://intranet.alxswe.com/rltoken/yBMqMN_7aGONB4QqW4L7Xg "Introduction to C (Basic structure and variables)")
+
+
 Learning Objectives
 -------------------
 
 At the end of this project, you are expected to be able to [explain to anyone](https://alx-intranet.hbtn.io/rltoken/mGnreK2ar-4GUXzcb9OtXw "explain to anyone"), **without the help of Google**:
+
 
 ### General
 
@@ -53,6 +61,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 -   What is the `ASCII` character set
 -   What are the purpose of the `gcc` flags `-m32` and `-m64`
 
+
 Requirements
 ------------
 
@@ -66,12 +75,16 @@ Requirements
 -   You are not allowed to use `system`
 -   Your code should use the `Betty` style. It will be checked using [betty-style.pl](https://github.com/holbertonschool/Betty/blob/master/betty-style.pl "betty-style.pl") and [betty-doc.pl](https://github.com/holbertonschool/Betty/blob/master/betty-doc.pl "betty-doc.pl")
 
+
 Tasks
 -----
 
-### 0\. Positive anything is better than negative nothing
 
-mandatory
+**mandatory**
+
+
+---------------------------------------------------------
+### 0\. Positive anything is better than negative nothing
 
 This program will assign a random number to the variable `n` each time it is executed. Complete the source code in order to print whether the number stored in the variable `n` is positive or negative.
 
@@ -112,12 +125,13 @@ julien@ubuntu:~/0x01$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x01-variables_if_else_while`
 -   File: `0-positive_or_negative.c`
+---------------------------------------------------------
 
- Done? Help Get a sandbox
 
+
+
+---------------------------------------------------------
 ### 1\. The last digit
-
-mandatory
 
 This program will assign a random number to the variable `n` each time it is executed. Complete the source code in order to print the last digit of the number stored in the variable `n`.
 
@@ -170,12 +184,13 @@ julien@ubuntu:~/0x01$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x01-variables_if_else_while`
 -   File: `1-last_digit.c`
+---------------------------------------------------------
 
- Done? Help Get a sandbox
 
+
+
+---------------------------------------------------------
 ### 2\. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game
-
-mandatory
 
 Write a program that prints the alphabet in lowercase, followed by a new line.
 
@@ -196,12 +211,13 @@ julien@ubuntu:~/0x01$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x01-variables_if_else_while`
 -   File: `2-print_alphabet.c`
+---------------------------------------------------------
 
- Done? Help Get a sandbox
 
+
+
+---------------------------------------------------------
 ### 3\. alphABET
-
-mandatory
 
 Write a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
 
@@ -222,12 +238,13 @@ julien@ubuntu:~/0x01$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x01-variables_if_else_while`
 -   File: `3-print_alphabets.c`
+---------------------------------------------------------
 
- Done? Help Get a sandbox
 
+
+
+---------------------------------------------------------
 ### 4\. When I was having that alphabet soup, I never thought that it would pay off
-
-mandatory
 
 Write a program that prints the alphabet in lowercase, followed by a new line.
 
@@ -250,12 +267,13 @@ julien@ubuntu:~/0x01$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x01-variables_if_else_while`
 -   File: `4-print_alphabt.c`
+---------------------------------------------------------
 
- Done? Help Get a sandbox
 
+
+
+---------------------------------------------------------
 ### 5\. Numbers
-
-mandatory
 
 Write a program that prints all single digit numbers of base 10 starting from `0`, followed by a new line.
 
@@ -274,12 +292,13 @@ julien@ubuntu:~/0x01$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x01-variables_if_else_while`
 -   File: `5-print_numbers.c`
+---------------------------------------------------------
 
- Done? Help Get a sandbox
 
+
+
+---------------------------------------------------------
 ### 6\. Numberz
-
-mandatory
 
 Write a program that prints all single digit numbers of base 10 starting from `0`, followed by a new line.
 
@@ -301,12 +320,13 @@ julien@ubuntu:~/0x01$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x01-variables_if_else_while`
 -   File: `6-print_numberz.c`
+---------------------------------------------------------
 
- Done? Help Get a sandbox
 
+
+
+---------------------------------------------------------
 ### 7\. Smile in the mirror
-
-mandatory
 
 Write a program that prints the lowercase alphabet in reverse, followed by a new line.
 
@@ -327,12 +347,13 @@ julien@ubuntu:~/0x01$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x01-variables_if_else_while`
 -   File: `7-print_tebahpla.c`
+---------------------------------------------------------
 
- Done? Help Get a sandbox
 
+
+
+---------------------------------------------------------
 ### 8\. Hexadecimal
-
-mandatory
 
 Write a program that prints all the numbers of base 16 in lowercase, followed by a new line.
 
@@ -353,12 +374,13 @@ julien@ubuntu:~/0x01$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x01-variables_if_else_while`
 -   File: `8-print_base16.c`
+---------------------------------------------------------
 
- Done? Help Get a sandbox
 
+
+
+---------------------------------------------------------
 ### 9\. Patience, persistence and perspiration make an unbeatable combination for success
-
-mandatory
 
 Write a program that prints all possible combinations of single-digit numbers.
 
@@ -382,10 +404,15 @@ julien@ubuntu:~/0x01$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x01-variables_if_else_while`
 -   File: `9-print_comb.c`
+---------------------------------------------------------
 
+
+**advanced**
+
+
+---------------------------------------------------------
 ### 10\. Inventing is a combination of brains and materials. The more brains you use, the less material you need
 
-advanced
 
 Write a program that prints all possible different combinations of two digits.
 
@@ -413,10 +440,13 @@ julien@ubuntu:~/0x01$
 -	GitHub repository: `alx-low_level_programming`
 -	Directory: `0x01-variables_if_else_while`
 -	File: `100-print_comb3.c`
+---------------------------------------------------------
 
+
+
+
+---------------------------------------------------------
 ### 11\. The success combination in business is: Do what you do better... and: do more of what you do...
-
-advanced
 
 Write a program that prints all possible different combinations of three digits.
 
@@ -444,10 +474,13 @@ julien@ubuntu:~/0x01$
 -	GitHub repository: `alx-low_level_programming`
 -	Directory: `0x01-variables_if_else_while`
 -	File: `101-print_comb4.c`
+---------------------------------------------------------
 
+
+
+
+---------------------------------------------------------
 ### 12\. Software is eating the World
-
-advanced
 
 Write a program that prints all possible combinations of two two-digit numbers.
 
@@ -475,3 +508,5 @@ julien@ubuntu:~/0x01$ ./102-print_comb5
 -	GitHub repository: `alx-low_level_programming`
 -	Directory: `0x01-variables_if_else_while`
 -	File: `102-print_comb5.c`
+---------------------------------------------------------
+
