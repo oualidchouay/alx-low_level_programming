@@ -52,12 +52,15 @@ Requirements
 -   The prototypes of all your functions and the prototype of the function `_putchar` should be included in your header file called `main.h`
 -   Don't forget to push your header file
 
+
 Tasks
 -----
 
-### 0\. memset
 
-mandatory
+**mandatory**
+
+---------------------------------------------------------
+### 0\. memset
 
 Write a function that fills memory with a constant byte.
 
@@ -147,12 +150,13 @@ julien@ubuntu:~/0x07$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x07-pointers_arrays_strings`
 -   File: `0-memset.c`
+---------------------------------------------------------
 
- Done? Help Check your code Get a sandbox
 
+
+
+---------------------------------------------------------
 ### 1\. memcpy
-
-mandatory
 
 Write a function that copies memory area.
 
@@ -243,12 +247,13 @@ julien@ubuntu:~/0x07$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x07-pointers_arrays_strings`
 -   File: `1-memcpy.c`
+---------------------------------------------------------
 
- Done? Help Check your code Get a sandbox
 
+
+
+---------------------------------------------------------
 ### 2\. strchr
-
-mandatory
 
 Write a function that locates a character in a string.
 
@@ -292,12 +297,13 @@ julien@ubuntu:~/0x07$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x07-pointers_arrays_strings`
 -   File: `2-strchr.c`
+---------------------------------------------------------
 
- Done? Help Check your code Get a sandbox
 
+
+
+---------------------------------------------------------
 ### 3\. strspn
-
-mandatory
 
 Write a function that gets the length of a prefix substring.
 
@@ -338,12 +344,13 @@ julien@ubuntu:~/0x07$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x07-pointers_arrays_strings`
 -   File: `3-strspn.c`
+---------------------------------------------------------
 
- Done? Help Check your code Get a sandbox
 
+
+
+---------------------------------------------------------
 ### 4\. strpbrk
-
-mandatory
 
 Write a function that searches a string for any of a set of bytes.
 
@@ -385,12 +392,13 @@ julien@ubuntu:~/0x07$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x07-pointers_arrays_strings`
 -   File: `4-strpbrk.c`
+---------------------------------------------------------
 
- Done? Help Check your code Get a sandbox
 
+
+
+---------------------------------------------------------
 ### 5\. strstr
-
-mandatory
 
 Write a function that locates a substring.
 
@@ -432,12 +440,13 @@ julien@ubuntu:~/0x07$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x07-pointers_arrays_strings`
 -   File: `5-strstr.c`
+---------------------------------------------------------
 
- Done? Help Check your code Get a sandbox
 
+
+
+---------------------------------------------------------
 ### 6\. Chess is mental torture
-
-mandatory
 
 Write a function that prints the chessboard.
 
@@ -484,12 +493,13 @@ julien@ubuntu:~/0x07$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x07-pointers_arrays_strings`
 -   File: `7-print_chessboard.c`
+---------------------------------------------------------
 
- Done? Help Check your code Get a sandbox
 
+
+
+---------------------------------------------------------
 ### 7\. The line of life is a ragged diagonal between duty and desire
-
-mandatory
 
 Write a function that prints the sum of the two diagonals of a square matrix of integers.
 
@@ -540,12 +550,14 @@ julien@ubuntu:~/0x07$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x07-pointers_arrays_strings`
 -   File: `8-print_diagsums.c`
+---------------------------------------------------------
 
- Done? Help Check your code Get a sandbox
 
+**advanced**
+
+
+---------------------------------------------------------
 ### 8\. Double pointer, double fun
-
-#advanced
 
 Write a function that sets the value of a pointer to a char.
 
@@ -584,12 +596,13 @@ julien@ubuntu:~/0x07$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x07-pointers_arrays_strings`
 -   File: `100-set_string.c`
+---------------------------------------------------------
 
- Done? Help Check your code
 
+
+
+---------------------------------------------------------
 ### 9\. My primary goal of hacking was the intellectual curiosity, the seduction of adventure
-
-#advanced
 
 Create a file that contains the password for the [crackme2](https://github.com/holbertonschool/0x06.c "crackme2") executable.
 
@@ -603,4 +616,4 @@ Create a file that contains the password for the [crackme2](https://github.com/
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x07-pointers_arrays_strings`
 -   File: `101-crackme_password`
-
+---------------------------------------------------------
