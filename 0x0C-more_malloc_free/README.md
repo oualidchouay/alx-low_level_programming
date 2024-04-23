@@ -10,6 +10,7 @@ Concepts
 
 -   [Automatic and dynamic allocation, malloc and free](https://alx-intranet.hbtn.io/concepts/62)
 
+
 Resources
 ---------
 
@@ -23,15 +24,23 @@ Resources
 -   `calloc`
 -   `realloc`
 
+Additional Resources
+--------------------
+
+-	[Practical use of MALLOC in C - Dynamic Memory Allocation](https://intranet.alxswe.com/rltoken/unzBBPYAdFeqogEuGCKqKw "Practical use of MALLOC in C - Dynamic Memory Allocation")
+
+
 Learning Objectives
 -------------------
 
 At the end of this project, you are expected to be able to [explain to anyone](https://alx-intranet.hbtn.io/rltoken/UzyOEQw26ytlKDLQq7AGXw "explain to anyone"), **without the help of Google**:
 
+
 ### General
 
 -   How to use the `exit` function
 -   What are the functions `calloc` and `realloc` from the standard library and how to use them
+
 
 Requirements
 ------------
@@ -52,11 +61,16 @@ Requirements
 -   The prototypes of all your functions and the prototype of the function `_putchar` should be included in your header file called `main.h`
 -   Don't forget to push your header file
 
+
 Tasks
 ------
 
+
+**mandatory**
+
+
+---------------------------------------------------------
 ### 0\. Trust no one
-mandatory
 
 Write a function that allocates memory using `malloc`.
 
@@ -113,10 +127,13 @@ julien@ubuntu:~/0x0b. more malloc, free$
 -	GitHub repository: `alx-low_level_programming`
 -	Directory: `0x0C-more_malloc_free`
 -	File: `0-malloc_checked.c`
+---------------------------------------------------------
 
 
+
+
+---------------------------------------------------------
 ### 1\. string_nconcat
-mandatory
 
 Write a function that concatenates two strings.
 
@@ -158,10 +175,14 @@ julien@ubuntu:~/0x0b. more malloc, free$
 -	GitHub repository: `alx-low_level_programming`
 -	Directory: `0x0C-more_malloc_free`
 -	File: `1-string_nconcat.c`
+---------------------------------------------------------
 
+
+
+
+---------------------------------------------------------
 
 ### 2\. _calloc
-mandatory
 
 Write a function that allocates memory for an array, using `malloc`.
 
@@ -246,9 +267,13 @@ julien@ubuntu:~/0x0b. more malloc, free$
 -	GitHub repository: `alx-low_level_programming`
 -	Directory: `0x0C-more_malloc_free`
 -	File: `2-calloc.c`
+---------------------------------------------------------
 
+
+
+
+---------------------------------------------------------
 ### 3\. array_range
-mandatory
 
 Write a function that creates an array of integers.
 
@@ -320,10 +345,14 @@ julien@ubuntu:~/0x0b. more malloc, free$
 -	GitHub repository: `alx-low_level_programming`
 -	Directory: `0x0C-more_malloc_free`
 -	File: `3-array_range.c`
+---------------------------------------------------------
 
+
+**advanced**
+
+
+---------------------------------------------------------
 ### 4\. _realloc
-
-#advanced
 
 Write a function that reallocates a memory block using `malloc` and `free`
 
@@ -417,10 +446,13 @@ julien@ubuntu:~/0x0b. more malloc, free$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x0C-more_malloc_free`
 -   File: `100-realloc.c`
+---------------------------------------------------------
 
+
+
+
+---------------------------------------------------------
 ### 5\. We must accept finite disappointment, but never lose infinite hope
-
-#advanced
 
 Write a program that multiplies two positive numbers.
 
@@ -448,3 +480,4 @@ julien@ubuntu:~/0x0b. more malloc, free$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x0C-more_malloc_free`
 -   File: `101-mul.c`
+---------------------------------------------------------
