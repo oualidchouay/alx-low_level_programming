@@ -16,16 +16,16 @@ Resources
 -   [C - Header Files](https://alx-intranet.hbtn.io/rltoken/IFY075ffrszSJvHqPAa-zQ "C - Header Files") (*stop before the "Once-Only Headers" paragraph*)
 
 
-Learning Objectives
--------------------
-
-At the end of this project, you are expected to be able to [explain to anyone](https://alx-intranet.hbtn.io/rltoken/qxo8nrqjGy1G9N_n87yE4g "explain to anyone"), **without the help of Google**:
-
-
 Additional Resources
 --------------------
 
 -	[Functions in C programming](https://intranet.alxswe.com/rltoken/RjdaBSB3mRcEE82aWOzkWw "Functions in C programming")
+
+
+Learning Objectives
+-------------------
+
+At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/Ya6FG69nkA7hRf_WG4E8gQ "explain to anyone"), **without the help of Google:**
 
 
 ### General
