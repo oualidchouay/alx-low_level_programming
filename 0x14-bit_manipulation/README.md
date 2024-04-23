@@ -1,7 +1,6 @@
 0x14. C - Bit manipulation
 ==========================
 
--   By Julien Barbier
 
 
 ![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/232/bitwise.PNG)
@@ -11,8 +10,17 @@ Resources
 
 **Read or watch**:
 
--   [Google](https://alx-intranet.hbtn.io/rltoken/-tOFAtANisYQthxNBmJB8g "Google")
--   [Youtube](https://alx-intranet.hbtn.io/rltoken/-PNa1vv5T3tqVVY4PRlGrg "Youtube")
+-	[Operators in C - Part 6](https://intranet.alxswe.com/rltoken/U23plDtAeWRnXKK_EzQRug "Operators in C - Part 6")
+-	[Operators in C - Part 7 (Bitwise Operators-II)](https://intranet.alxswe.com/rltoken/Bfym_wLbNRQgCv_XcIRTRg "Operators in C - Part 7 (Bitwise Operators-II)")
+-	[Bitwise Operators 1: The AND Operation](https://intranet.alxswe.com/rltoken/hIPyd6L6Pg9OZ6zCXwo6aw "Bitwise Operators 1: The AND Operation")
+-	[Bitwise Operators 2: The OR Operation](https://intranet.alxswe.com/rltoken/M1FRe-jfuKSDe4kle1ocsw "Bitwise Operators 2: The OR Operation")
+-	[Bitwise Operators 3: The XOR Operation](https://intranet.alxswe.com/rltoken/ngPcZF4EFySsQpStXRH_nA "Bitwise Operators 3: The XOR Operation")
+-	[Bitwise Operators 4: The Logical Shift Operation](https://intranet.alxswe.com/rltoken/-8M7r6Omy5yZ-27f2HKbsg "Bitwise Operators 4: The Logical Shift Operation")
+-	[Bit Manipulation](https://intranet.alxswe.com/rltoken/wTSa_lRda5k1rH6JTsSoFw "Bit Manipulation")
+-	[Bitwise Operators](https://intranet.alxswe.com/rltoken/avGgN526-UnTPvpunGviig "Bitwise Operators")
+-   [Google](https://intranet.alxswe.com/rltoken/-tOFAtANisYQthxNBmJB8g "Google")
+-   [Youtube](https://intranet.alxswe.com/rltoken/-PNa1vv5T3tqVVY4PRlGrg "Youtube")
+
 
 Learning Objectives
 -------------------
@@ -47,9 +55,10 @@ Requirements
 Tasks
 -----
 
-### 0\. 0
+**mandatory**
 
-mandatory
+------------------------------------------------------------------
+### 0\. 0
 
 Write a function that converts a binary number to an `unsigned int`.
 
@@ -101,10 +110,13 @@ julien@ubuntu:~/0x14. Binary$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x14-bit_manipulation`
 -   File: `0-binary_to_uint.c`
+------------------------------------------------------------------
 
+
+
+
+------------------------------------------------------------------
 ### 1\. 1
-
-mandatory
 
 Write a function that prints the binary representation of a number.
 
@@ -154,10 +166,13 @@ julien@ubuntu:~/0x14. Binary$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x14-bit_manipulation`
 -   File: `1-print_binary.c`
+------------------------------------------------------------------
 
+
+
+
+------------------------------------------------------------------
 ### 2\. 10
-
-mandatory
 
 Write a function that returns the value of a bit at a given index.
 
@@ -201,10 +216,13 @@ julien@ubuntu:~/0x14. Binary$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x14-bit_manipulation`
 -   File: `2-get_bit.c`
+------------------------------------------------------------------
 
+
+
+
+------------------------------------------------------------------
 ### 3\. 11
-
-mandatory
 
 Write a function that sets the value of a bit to `1` at a given index.
 
@@ -251,10 +269,13 @@ julien@ubuntu:~/0x14. Binary$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x14-bit_manipulation`
 -   File: `3-set_bit.c`
+------------------------------------------------------------------
 
+
+
+
+------------------------------------------------------------------
 ### 4\. 100
-
-mandatory
 
 Write a function that sets the value of a bit to `0` at a given index.
 
@@ -301,10 +322,13 @@ julien@ubuntu:~/0x14. Binary$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x14-bit_manipulation`
 -   File: `4-clear_bit.c`
+------------------------------------------------------------------
 
+
+
+
+------------------------------------------------------------------
 ### 5\. 101
-
-mandatory
 
 Write a function that returns the number of bits you would need to flip to get from one number to another.
 
@@ -350,10 +374,14 @@ julien@ubuntu:~/0x14. Binary$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x14-bit_manipulation`
 -   File: `5-flip_bits.c`
+------------------------------------------------------------------
 
+
+**advanced**
+
+
+------------------------------------------------------------------
 ### 6\. Endianness
-
-#advanced
 
 Write a function that checks the endianness.
 
@@ -403,10 +431,13 @@ julien@ubuntu:~/0x14. Binary$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x14-bit_manipulation`
 -   File: `100-get_endianness.c`
+------------------------------------------------------------------
 
+
+
+
+------------------------------------------------------------------
 ### 7\. Crackme3
-
-#advanced
 
 Find the password for [this program](https://github.com/holbertonschool/0x13.c "this program").
 
@@ -425,3 +456,4 @@ julien@ubuntu:~/0x14. Binary$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x14-bit_manipulation`
 -   File: `101-password`
+------------------------------------------------------------------
