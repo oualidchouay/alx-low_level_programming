@@ -14,10 +14,19 @@ Resources
 -   [What is the purpose of a function prototype?](https://alx-intranet.hbtn.io/rltoken/XZ--UJZO76ZoUWNA9bTmbg "What is the purpose of a function prototype?")
 -   [C - Header Files](https://alx-intranet.hbtn.io/rltoken/AS8JW4ObD5gmyX2mgtqV0A "C - Header Files") (*stop before the "Once-Only Headers" paragraph*)
 
+
+Additional Resources
+--------------------
+
+-	[C Programming Loops & Functions](https://intranet.alxswe.com/rltoken/GWe91KPRyiTpEGjTzmrdqg "C Programming Loops & Functions")
+-	[Functions in C programming](https://intranet.alxswe.com/rltoken/1Yc8CtLEFdT-X8gP57cWDA "Functions in C programming")
+
+
 Learning Objectives
 -------------------
 
 At the end of this project, you are expected to be able to [explain to anyone](https://alx-intranet.hbtn.io/rltoken/973IovM3wuVbqNXrcxZ4Bg "explain to anyone"), **without the help of Google**:
+
 
 ### General
 
@@ -28,6 +37,7 @@ At the end of this project, you are expected to be able to [explain to anyone](
 -   Scope of variables
 -   What are the `gcc` flags `-Wall -Werror -pedantic -Wextra -std=gnu89`
 -   What are header files and how to to use them with `#include`
+
 
 Requirements
 ------------
@@ -48,17 +58,21 @@ Requirements
 -   The prototypes of all your functions and the prototype of the function `_putchar` should be included in your header file called `main.h`
 -   Don't forget to push your header file
 
+
 More Info
 ---------
 
 You do not have to understand the call by reference (address), stack, static variables, recursions or arrays, yet.
 
+
 Tasks
 -----
 
-### 0\. _putchar
 
-mandatory
+**mandatory**
+
+---------------------------------------------------------
+### 0\. _putchar
 
 Write a program that prints `Holberton`, followed by a new line.
 
@@ -77,12 +91,13 @@ julien@ubuntu:~/0x02$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x02-functions_nested_loops`
 -   File: `0-holberton.c`
+---------------------------------------------------------
 
- Done? Help Get a sandbox
 
+
+
+---------------------------------------------------------
 ### 1\. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game
-
-mandatory
 
 Write a function that prints the alphabet, in lowercase, followed by a new line.
 
@@ -115,12 +130,13 @@ julien@ubuntu:~/0x02$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x02-functions_nested_loops`
 -   File: `1-alphabet.c`
+---------------------------------------------------------
 
- Done? Help Get a sandbox
 
+
+
+---------------------------------------------------------
 ### 2\. 10 x alphabet
-
-mandatory
 
 Write a function that prints 10 times the alphabet, in lowercase, followed by a new line.
 
@@ -162,12 +178,13 @@ julien@ubuntu:~/0x02$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x02-functions_nested_loops`
 -   File: `2-print_alphabet_x10.c`
+---------------------------------------------------------
 
- Done? Help Get a sandbox
 
+
+
+---------------------------------------------------------
 ### 3\. islower
-
-mandatory
 
 Write a function that checks for lowercase character.
 
@@ -211,12 +228,13 @@ julien@ubuntu:~/0x02$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x02-functions_nested_loops`
 -   File: `3-islower.c`
+---------------------------------------------------------
 
- Done? Help Get a sandbox
 
+
+
+---------------------------------------------------------
 ### 4\. isalpha
-
-mandatory
 
 Write a function that checks for alphabetic character.
 
@@ -262,12 +280,13 @@ julien@ubuntu:~/0x02$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x02-functions_nested_loops`
 -   File: `4-isalpha.c`
+---------------------------------------------------------
 
- Done? Help Get a sandbox
 
+
+
+---------------------------------------------------------
 ### 5\. Sign
-
-mandatory
 
 Write a function that prints the sign of a number.
 
@@ -326,12 +345,13 @@ julien@ubuntu:~/0x02$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x02-functions_nested_loops`
 -   File: `5-sign.c`
+---------------------------------------------------------
 
- Done? Help Get a sandbox
 
+
+
+---------------------------------------------------------
 ### 6\. There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you
-
-mandatory
 
 Write a function that computes the absolute value of an integer.
 
@@ -378,12 +398,13 @@ julien@ubuntu:~/0x02$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x02-functions_nested_loops`
 -   File: `6-abs.c`
+---------------------------------------------------------
 
- Done? Help Get a sandbox
 
+
+
+---------------------------------------------------------
 ### 7\. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important
-
-mandatory
 
 Write a function that prints the last digit of a number.
 
@@ -422,12 +443,13 @@ julien@ubuntu:~/0x02$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x02-functions_nested_loops`
 -   File: `7-print_last_digit.c`
+---------------------------------------------------------
 
- Done? Help Get a sandbox
 
+
+
+---------------------------------------------------------
 ### 8\. I'm federal agent Jack Bauer, and today is the longest day of my life
-
-mandatory
 
 Write a function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
 
@@ -482,12 +504,13 @@ julien@ubuntu:~/0x02$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x02-functions_nested_loops`
 -   File: `8-24_hours.c`
+---------------------------------------------------------
 
- Done? Help Get a sandbox
 
+
+
+---------------------------------------------------------
 ### 9\. Learn your times table
-
-mandatory
 
 Write a function that prints the 9 times table, starting with 0.
 
@@ -540,12 +563,13 @@ julien@ubuntu:~/0x02$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x02-functions_nested_loops`
 -   File: `9-times_table.c`
+---------------------------------------------------------
 
- Done? Help Get a sandbox
 
+
+
+---------------------------------------------------------
 ### 10\. a + b
-
-mandatory
 
 Write a function that adds two integers and returns the result.
 
@@ -581,12 +605,13 @@ julien@ubuntu:~/0x02$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x02-functions_nested_loops`
 -   File: `10-add.c`
+---------------------------------------------------------
 
- Done? Help Get a sandbox
 
+
+
+---------------------------------------------------------
 ### 11\. Holberton School, 98 Battery Street, the OG
-
-mandatory
 
 Write a function that prints all natural numbers from `n` to `98`, followed by a new line.
 
@@ -631,12 +656,15 @@ julien@ubuntu:~/0x02$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x02-functions_nested_loops`
 -   File: `11-print_to_98.c`
+---------------------------------------------------------
 
- Done? Help Get a sandbox
 
+**advanced**
+
+
+---------------------------------------------------------
 ### 12\. The World looks like a multiplication-table, or a mathematical equation, which, turn it how you will, balances itself
 
-#advanced
 
 Write a function that prints the `n` times table, starting with 0.
 
@@ -727,12 +755,12 @@ julien@ubuntu:~/0x02$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x02-functions_nested_loops`
 -   File: `100-times_table.c`
+---------------------------------------------------------
 
- Done? Help Get a sandbox
 
+
+---------------------------------------------------------
 ### 13\. Nature made the natural numbers; All else is the work of women
-
-#advanced
 
 If we list all the natural numbers below `10` that are multiples of `3` or `5`, we get `3`, `5`, `6` and `9`. The sum of these multiples is `23`. Write a program that computes and prints the sum of all the multiples of `3` or `5` below `1024` (excluded), followed by a new line.
 
@@ -743,9 +771,12 @@ If we list all the natural numbers below `10` that are multiples of `3` or 
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x02-functions_nested_loops`
 -   File: `101-natural.c`
+---------------------------------------------------------
 
- Done? Help Get a sandbox
 
+
+
+---------------------------------------------------------
 ### 14\. In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers. Instead, I wrote a program that would steal passwords of students. My teacher gave me an A
 
 #advanced
@@ -760,12 +791,13 @@ Write a program that prints the first 50 Fibonacci numbers, starting with `1` 
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x02-functions_nested_loops`
 -   File: `102-fibonacci.c`
+---------------------------------------------------------
 
- Done? Help Get a sandbox
 
+
+
+---------------------------------------------------------
 ### 15\. Even Liber Abbaci
-
-#advanced
 
 Each new term in the Fibonacci sequence is generated by adding the previous two terms. By starting with `1` and `2`, the first 10 terms will be: `1, 2, 3, 5, 8, 13, 21, 34, 55, 89`. By considering the terms in the Fibonacci sequence whose values do not exceed 4,000,000, write a program that finds and prints the sum of the even-valued terms, followed by a new line.
 
@@ -776,12 +808,12 @@ Each new term in the Fibonacci sequence is generated by adding the previous two 
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x02-functions_nested_loops`
 -   File: `103-fibonacci.c`
+---------------------------------------------------------
 
- Done? Help Get a sandbox
 
+
+---------------------------------------------------------
 ### 16\. In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers. Instead, I wrote a program that would steal passwords of students. My teacher gave me an A+
-
-#advanced
 
 Write a program that finds and prints the first 98 Fibonacci numbers, starting with `1` and `2`, followed by a new line.
 
@@ -796,3 +828,4 @@ Write a program that finds and prints the first 98 Fibonacci numbers, starting w
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x02-functions_nested_loops`
 -   File: `104-fibonacci.c`
+---------------------------------------------------------
