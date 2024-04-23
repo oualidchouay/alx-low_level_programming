@@ -31,6 +31,7 @@ Additional Resource
 
 -	[Static Libraries: How to Create & Use them in C programming](https://intranet.alxswe.com/rltoken/1BPeabLhE4bu86H3g3kmHA "Additional Resource Static Libraries: How to Create & Use them in C programming")
 
+
 Learning Objectives
 -------------------
 
@@ -70,6 +71,7 @@ Requirements
 -   The first line of all your files should be exactly `#!/bin/bash`
 -   A `README.md` file, at the root of the folder of the project, describing what each script is doing
 -   All your files must be executable
+
 
 More Info
 ---------
