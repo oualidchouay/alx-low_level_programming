@@ -1,7 +1,6 @@
 0x15. C - File I/O
 ==================
 
--   By Julien Barbier
 
 
 Resources
@@ -63,8 +62,11 @@ Requirements
 Tasks
 -----
 
+
+**mandatory**
+
+------------------------------------------------------------------
 ### 0\. Tread lightly, she is near
-mandatory
 
 Write a function that reads a text file and prints it to the `POSIX` standard output.
 
@@ -176,9 +178,13 @@ julien@ubuntu:~/0x15. File descriptors and permissions$
 -    GitHub repository: `alx-low_level_programming`
 -    Directory: `0x15-file_io`
 -    File: `0-read_textfile.c`
+------------------------------------------------------------------
 
+
+
+
+------------------------------------------------------------------
 ### 1\. Under the snow
-mandatory
 
 Create a function that creates a file.
 
@@ -228,9 +234,13 @@ worldjulien@ubuntu:~/0x15. File descriptors and permis$
 -    GitHub repository: `alx-low_level_programming`
 -    Directory: `0x15-file_io`
 -    File: `1-create_file.c`
+------------------------------------------------------------------
 
+
+
+
+------------------------------------------------------------------
 ### 2\. Speak gently, she can hear
-mandatory
 
 Write a function that appends text at the end of a file.
 
@@ -282,9 +292,13 @@ julien@ubuntu:~/0x15. File descriptors and permissions$
 -    GitHub repository: `alx-low_level_programming`
 -    Directory: `0x15-file_io`
 -    File: `2-append_text_to_file.c`
+------------------------------------------------------------------
 
+
+
+
+------------------------------------------------------------------
 ### 3\. cp
-mandatory
 
 Write a program that copies the content of a file to another file.
 
@@ -324,11 +338,14 @@ julien@ubuntu:~/0x15. File descriptors and permissions$
 -    GitHub repository: `alx-low_level_programming`
 -    Directory: `0x15-file_io`
 -    File: `3-cp.c`
+------------------------------------------------------------------
 
 
+**advanced**
+
+
+------------------------------------------------------------------
 ### 4\. elf
-
-#advanced
 
 Write a program that displays the information contained in the `ELF` header at the start of an `ELF` file.
 
@@ -470,3 +487,4 @@ julien@ubuntu:~/0x15. File descriptors and permissions$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x15-file_io`
 -   File: `100-elf_header.c`
+------------------------------------------------------------------
