@@ -14,6 +14,13 @@ Resources
 -   [What does argc and argv mean?](https://alx-intranet.hbtn.io/rltoken/A0pzqslB6Z3Y3OV3hJQ6Tw "What does argc and argv mean?")
 -   [how to compile with unused variables](https://alx-intranet.hbtn.io/rltoken/MkOUE1ndq1UAx9Erk-AVbg "how to compile with unused variables")
 
+
+Additional Resources
+--------------------
+
+-	[Command Line Arguments (Argc & Argv) in C Programming](https://intranet.alxswe.com/rltoken/QdZThfByS9EoC8o_WL9pXQ "Command Line Arguments (Argc & Argv) in C Programming")
+
+
 Learning Objectives
 -------------------
 
@@ -44,9 +51,7 @@ Requirements
 Tasks
 -----
 
-
 **mandatory**
-
 
 ---------------------------------------------------------
 ### 0\. It ain't what they call you, it's what you answer to
