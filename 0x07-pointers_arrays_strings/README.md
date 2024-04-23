@@ -12,6 +12,7 @@ Concepts
 
 ![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/218/58fe6b229144b7fe5ebe88afe9ff5cabe2dd0863e1e79b2d02b4103c30b465dd.jpg)
 
+
 Resources
 ---------
 
@@ -22,10 +23,17 @@ Resources
 -   [Multi-dimensional Arrays in C](https://alx-intranet.hbtn.io/rltoken/HUZIJ6t55KM7d7FBCwWm8Q "Multi-dimensional Arrays in C")
 -   [Two dimensional (2D) arrays in C programming with example](https://alx-intranet.hbtn.io/rltoken/Dx9nIBRj68sRBGe2NRI_aQ "Two dimensional (2D) arrays in C programming with example")
 
+
+Additional Resources
+--------------------
+
+-	[Arrays, Strings & Pointers in C Programming](https://intranet.alxswe.com/rltoken/8dnWfdRPPLVuzPQKVTGljA "Arrays, Strings & Pointers in C Programming")
+
 Learning Objectives
 -------------------
 
 At the end of this project, you are expected to be able to [explain to anyone](https://alx-intranet.hbtn.io/rltoken/4zAEhwhzlwolYh1Tmjg2Pg "explain to anyone"), **without the help of Google**:
+
 
 ### General
 
@@ -52,6 +60,11 @@ Requirements
 -   The prototypes of all your functions and the prototype of the function `_putchar` should be included in your header file called `main.h`
 -   Don't forget to push your header file
 
+
+More Info
+----------
+
+You do not need to learn about pointers to functions, arrays of structures, `malloc` and `free` - yet.
 
 Tasks
 -----
