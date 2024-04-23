@@ -15,10 +15,18 @@ Resources
 -   [What is the purpose of a function prototype?](https://alx-intranet.hbtn.io/rltoken/pUXhvD6-xl5BbWyj1AhCEA "What is the purpose of a function prototype?")
 -   [C - Header Files](https://alx-intranet.hbtn.io/rltoken/IFY075ffrszSJvHqPAa-zQ "C - Header Files") (*stop before the "Once-Only Headers" paragraph*)
 
+
 Learning Objectives
 -------------------
 
 At the end of this project, you are expected to be able to [explain to anyone](https://alx-intranet.hbtn.io/rltoken/qxo8nrqjGy1G9N_n87yE4g "explain to anyone"), **without the help of Google**:
+
+
+Additional Resources
+--------------------
+
+-	[Functions in C programming](https://intranet.alxswe.com/rltoken/RjdaBSB3mRcEE82aWOzkWw "Functions in C programming")
+
 
 ### General
 
@@ -29,6 +37,7 @@ At the end of this project, you are expected to be able to [explain to anyone](
 -   Scope of variables
 -   What are the `gcc` flags `-Wall -Werror -pedantic -Wextra -std=gnu89`
 -   What are header files and how to to use them with `#include`
+
 
 Requirements
 ------------
@@ -49,12 +58,21 @@ Requirements
 -   The prototypes of all your functions and the prototype of the function `_putchar` should be included in your header file called `main.h`
 -   Don't forget to push your header file
 
+
+More Info
+---------
+
+You do not have to understand the call by reference (address), stack, static variables, recursions or arrays, yet.
+
+
 Tasks
 -----
 
-### 0\. isupper
 
-mandatory
+**mandatory**
+
+---------------------------------------------------------
+### 0\. isupper
 
 Write a function that checks for uppercase character.
 
@@ -97,12 +115,13 @@ julien@ubuntu:~/0x04$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x04-more_functions_nested_loops`
 -   File: `0-isupper.c`
+---------------------------------------------------------
 
- Done? Help Check your code
 
+
+
+---------------------------------------------------------
 ### 1\. isdigit
-
-mandatory
 
 Write a function that checks for a digit (`0` through `9`).
 
@@ -145,12 +164,13 @@ julien@ubuntu:~/0x04$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x04-more_functions_nested_loops`
 -   File: `1-isdigit.c`
+---------------------------------------------------------
 
- Done? Help Check your code
 
+
+
+---------------------------------------------------------
 ### 2\. Collaboration is multiplication
-
-mandatory
 
 Write a function that multiplies two integers.
 
@@ -184,13 +204,14 @@ julien@ubuntu:~/0x04$
 
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x04-more_functions_nested_loops`
--   File: `2-mul.c`
+-   File: `2-mulc`
+---------------------------------------------------------
 
- Done? Help Check your code
 
+
+
+---------------------------------------------------------
 ### 3\. The numbers speak for themselves
-
-mandatory
 
 Write a function that prints the numbers, from `0` to `9`, followed by a new line.
 
@@ -223,12 +244,13 @@ julien@ubuntu:~/0x04$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x04-more_functions_nested_loops`
 -   File: `3-print_numbers.c`
+---------------------------------------------------------
 
- Done? Help Check your code
 
+
+
+---------------------------------------------------------
 ### 4\. I believe in numbers and signs
-
-mandatory
 
 Write a function that prints the numbers, from `0` to `9`, followed by a new line.
 
@@ -262,12 +284,13 @@ julien@ubuntu:~/0x04$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x04-more_functions_nested_loops`
 -   File: `4-print_most_numbers.c`
+---------------------------------------------------------
 
- Done? Help Check your code
 
+
+
+---------------------------------------------------------
 ### 5\. Numbers constitute the only universal language
-
-mandatory
 
 Write a function that prints 10 times the numbers, from `0` to `14`, followed by a new line.
 
@@ -309,12 +332,13 @@ julien@ubuntu:~/0x04
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x04-more_functions_nested_loops`
 -   File: `5-more_numbers.c`
+---------------------------------------------------------
 
- Done? Help Check your code
 
+
+
+---------------------------------------------------------
 ### 6\. The shortest distance between two points is a straight line
-
-mandatory
 
 Write a function that draws a straight line in the terminal.
 
@@ -356,12 +380,13 @@ julien@ubuntu:~/0x04$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x04-more_functions_nested_loops`
 -   File: `6-print_line.c`
+---------------------------------------------------------
 
- Done? Help Check your code
 
+
+
+---------------------------------------------------------
 ### 7\. I feel like I am diagonally parked in a parallel universe
-
-mandatory
 
 Write a function that draws a diagonal line on the terminal.
 
@@ -413,12 +438,13 @@ julien@ubuntu:~/0x04$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x04-more_functions_nested_loops`
 -   File: `7-print_diagonal.c`
+---------------------------------------------------------
 
- Done? Help Check your code
 
+
+
+---------------------------------------------------------
 ### 8\. You are so much sunshine in every square inch
-
-mandatory
 
 Write a function that prints a square, followed by a new line.
 
@@ -469,12 +495,13 @@ julien@ubuntu:~/0x04$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x04-more_functions_nested_loops`
 -   File: `8-print_square.c`
+---------------------------------------------------------
 
- Done? Help Check your code
 
+
+
+---------------------------------------------------------
 ### 9\. Fizz-Buzz
-
-mandatory
 
 The "Fizz-Buzz test" is an interview question designed to help filter out the 99.5% of programming job candidates who can't seem to program their way out of a wet paper bag.
 
@@ -496,12 +523,13 @@ julien@ubuntu:~/0x04$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x04-more_functions_nested_loops`
 -   File: `9-fizz_buzz.c`
+---------------------------------------------------------
 
- Done? Help Check your code Get a sandbox
 
+
+
+---------------------------------------------------------
 ### 10\. Triangles
-
-mandatory
 
 Write a function that prints a triangle, followed by a new line.
 
@@ -568,10 +596,14 @@ julien@ubuntu:~/0x04$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x04-more_functions_nested_loops`
 -   File: `10-print_triangle.c`
+---------------------------------------------------------
 
+
+**advanced**
+
+
+---------------------------------------------------------
 ### 11\. The problem of distinguishing prime numbers from composite numbers and of resolving the latter into their prime factors is known to be one of the most important and useful in arithmetic
-
-advanced
 
 The prime factors of `1231952` are `2`, `2`, `2`, `2`, `37` and `2081`.
 
@@ -585,7 +617,12 @@ Write a program that finds and prints the largest prime factor of the number `61
 -	GitHub repository: `alx-low_level_programming`
 -	Directory: `0x04-more_functions_nested_loops`
 -	File: `100-prime_factor.c`
+---------------------------------------------------------
 
+
+
+
+---------------------------------------------------------
 ### 12\. Numbers have life; they're not just symbols on paper
 
 Write a function that prints an integer.
@@ -634,3 +671,4 @@ julien@ubuntu:~/0x04$
 -	GitHub repository: `alx-low_level_programming`
 -	Directory: `0x04-more_functions_nested_loops`
 -	File: `101-print_number.c`
+---------------------------------------------------------
