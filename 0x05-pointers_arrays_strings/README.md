@@ -26,6 +26,12 @@ Resources
 -   [Memory Layout](https://alx-intranet.hbtn.io/rltoken/0k6CD2ZMzSFOMUxMOBiAlQ "Memory Layout")
 
 
+Additional Resource
+-------------------
+
+-	[Arrays & Pointers in C Programming Explained](https://intranet.alxswe.com/rltoken/MiVrdKaKsnFsUOYQBtXugg "Arrays & Pointers in C Programming Explained")
+
+
 Learning Objectives
 -------------------
 
