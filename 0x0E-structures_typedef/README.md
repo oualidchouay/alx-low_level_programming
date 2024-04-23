@@ -1,10 +1,9 @@
 0x0E. C - Structures, typedef
 =============================
 
--   By Julien Barbier
 
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2021/3/50af78a28a081e809856d4cdbde2d7ca9d4aa93d.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU65GPZGY3%2F20210927%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210927T115814Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0158eddf0bf8015b6b59f632a1f63a2db9337f476ec9a445b33187a425b611da)
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2021/3/50af78a28a081e809856d4cdbde2d7ca9d4aa93d.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240423%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240423T162550Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=faf782fe7dc0cc8ef0b1953e94c0fdd05047a2f678d477cae03cc2d7f85f71e9)
 
 Resources
 ---------
@@ -17,6 +16,12 @@ Resources
 -   [0x0d. Typedef and structures.pdf](https://alx-intranet.hbtn.io/rltoken/TGQ3RopVP7CjUTzF-XDXUw "0x0d. Typedef and structures.pdf")
 -   [typedef](https://alx-intranet.hbtn.io/rltoken/aqqM2t7PLG5cyHaKwm5nBg "typedef")
 -   **Programming in C** by Stephen Kochan - *Chapter 8, Working with Structures p163-189*
+
+Additional Resource
+-------------------
+
+-	[Structs & Typedef in C Explained](https://intranet.alxswe.com/rltoken/FCgS4NG2DA3u-N2ui5DPDQ "Structs & Typedef in C Explained")
+-	[Practical use of structs & typedef with coding examples](https://intranet.alxswe.com/rltoken/bldpwc7nlYq-3sY-jfZxZA "Practical use of structs & typedef with coding examples")
 -   [The Lost Art of C Structure Packing](https://alx-intranet.hbtn.io/rltoken/emb4ohNT7XKi8Peep5lyeA "The Lost Art of C Structure Packing") (*Advanced - not mandatory*)
 
 Learning Objectives
@@ -49,9 +54,10 @@ Requirements
 Tasks
 -----
 
-### 0\. Poppy
+**mandatory**
 
-mandatory
+------------------------------------------------------------------
+### 0\. Poppy
 
 ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2021/3/3b534d73d79949ef8b7535d462014518256953f2.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU65GPZGY3%2F20210927%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210927T115814Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=15974b53741f059d40e4a9bbac57ea8b8a42b55ad5ef57253789e6a0dc79fd9a)
 
@@ -93,10 +99,13 @@ julien@ubuntu:~/0x0d. structures, typedef$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x0E-structures_typedef`
 -   File: `dog.h`
+------------------------------------------------------------------
 
+
+
+
+------------------------------------------------------------------
 ### 1\. A dog is the only thing on earth that loves you more than you love yourself
-
-mandatory
 
 Write a function that initialize a variable of type `struct dog`
 
@@ -132,10 +141,13 @@ julien@ubuntu:~/0x0d. structures, typedef$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x0E-structures_typedef`
 -   File: `1-init_dog.c`
+------------------------------------------------------------------
 
+
+
+
+------------------------------------------------------------------
 ### 2\. A dog will teach you unconditional love. If you can have that in your life, things won't be too bad
-
-mandatory
 
 ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2021/3/bb940d2ab10c3a4740f3c154cb980133e65e438e.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU65GPZGY3%2F20210927%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210927T115814Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=7b1af8bf61e4886bb5b5a0e97e271312f82966326b6d2a2f15041c6fd417b106)
 
@@ -181,10 +193,13 @@ julien@ubuntu:~/0x0d. structures, typedef$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x0E-structures_typedef`
 -   File: `2-print_dog.c`
+------------------------------------------------------------------
 
+
+
+
+------------------------------------------------------------------
 ### 3\. Outside of a dog, a book is a man's best friend. Inside of a dog it's too dark to read
-
-mandatory
 
 ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2021/3/9ef84b3fd1636992602868e45d3062719326de0e.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU65GPZGY3%2F20210927%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210927T115814Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=982ebe4952d4ed369adad65d76e68662ec6f229f91eb5c6daaec764c2ce63971)
 
@@ -222,10 +237,13 @@ julien@ubuntu:~/0x0d. structures, typedef$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x0E-structures_typedef`
 -   File: `dog.h`
+------------------------------------------------------------------
 
+
+
+
+------------------------------------------------------------------
 ### 4\. A door is what a dog is perpetually on the wrong side of
-
-mandatory
 
 ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2021/3/8c1e394774fb8d25e0bbbb73a75ebc7de0c80745.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU65GPZGY3%2F20210927%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210927T115814Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=3fd6fcd462bf81857d3fe8899ce52bbb2d8b1e869f524b350a3ba285341c7adc)
 
@@ -265,7 +283,12 @@ julien@ubuntu:~/0x0d. structures, typedef$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x0E-structures_typedef`
 -   File: `4-new_dog.c`
+------------------------------------------------------------------
 
+
+
+
+------------------------------------------------------------------
 ### 5\. How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn't make it a leg
 
 mandatory
@@ -321,5 +344,4 @@ julien@ubuntu:~/0x0d. structures, typedef$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x0E-structures_typedef`
 -   File: `5-free_dog.c`
-
-Copyright © 2021 Holberton Inc, All rights reserved.
+------------------------------------------------------------------
