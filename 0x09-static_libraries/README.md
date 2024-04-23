@@ -15,9 +15,9 @@ Resources
 
 **Read or watch**:
 
--   [What Is A "C" Library? What Is It Good For?](https://alx-intranet.hbtn.io/rltoken/XB1iH0qE6gshx0x8TfRAPQ "What Is A "C" Library? What Is It Good For?")
--   [Creating A Static "C" Library Using "ar" and "ranlib"](https://alx-intranet.hbtn.io/rltoken/XB1iH0qE6gshx0x8TfRAPQ "Creating A Static "C" Library Using "ar" and "ranlib"")
--   [Using A "C" Library In A Program](https://alx-intranet.hbtn.io/rltoken/XB1iH0qE6gshx0x8TfRAPQ "Using A "C" Library In A Program")
+-	[What Is A “C” Library? What Is It Good For?](https://intranet.alxswe.com/rltoken/XB1iH0qE6gshx0x8TfRAPQ "What Is A “C” Library? What Is It Good For?")
+-	[Creating A Static “C” Library Using “ar” and “ranlib”](https://intranet.alxswe.com/rltoken/XB1iH0qE6gshx0x8TfRAPQ "Creating A Static “C” Library Using “ar” and “ranlib”")
+-	[Using A “C” Library In A Program](https://intranet.alxswe.com/rltoken/XB1iH0qE6gshx0x8TfRAPQ "Using A “C” Library In A Program")
 -   [What is difference between Dynamic and Static library(Static and Dynamic linking)](https://alx-intranet.hbtn.io/rltoken/PexOGO-npR_ZDQk-SpOR9g "What is difference between Dynamic and Static library(Static and Dynamic linking)") (*stop at 4:44*)
 
 **man or help**:
@@ -25,6 +25,11 @@ Resources
 -   `ar`
 -   `ranlib`
 -   `nm`
+
+Additional Resource
+-------------------
+
+-	[Static Libraries: How to Create & Use them in C programming](https://intranet.alxswe.com/rltoken/1BPeabLhE4bu86H3g3kmHA "Additional Resource Static Libraries: How to Create & Use them in C programming")
 
 Learning Objectives
 -------------------
@@ -35,6 +40,7 @@ At the end of this project, you are expected to be able to [explain to anyone](
 
 -   What is a static library, how does it work, how to create one, and how to use it
 -   Basic usage of `ar`, `ranlib`, `nm`
+
 
 Requirements
 ------------
@@ -54,6 +60,7 @@ Requirements
 -   In the following examples, the `main.c` files are shown as examples. You can use them to test your functions, but you don't have to push them to your repo (if you do we won't take them into account). We will use our own `main.c` files at compilation. Our `main.c` files might be different from the one shown in the examples
 -   The prototypes of all your functions and the prototype of the function `_putchar` should be included in your header file called `main.h`
 -   Don't forget to push your header file
+
 
 ### Bash
 
@@ -75,8 +82,7 @@ Tasks
 
 **Mandatory**
 
-
----------------------------------------------------------
+-------------------------------------------------------
 ### 0\. A library is not a luxury but one of the necessities of life
 
 Create the static library `libmy.a` containing all the functions listed below:
@@ -214,7 +220,7 @@ julien@ubuntu:~/0x09. Static Librairies$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x09-static_libraries`
 -   File: `libmy.a, main.h`
----------------------------------------------------------
+-------------------------------------------------------
 
 
 
@@ -261,4 +267,4 @@ julien@ubuntu:~/0x09. Static Librairies$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x09-static_libraries`
 -   File: `create_static_lib.sh`
----------------------------------------------------------
+-------------------------------------------------------
