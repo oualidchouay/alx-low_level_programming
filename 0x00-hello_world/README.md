@@ -5,6 +5,7 @@
 
 ![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/212/cisfun.jpg)
 
+
 Resources
 ---------
 
@@ -13,6 +14,7 @@ Resources
 -   [Everything you need to know to start with C.pdf](https://alx-intranet.hbtn.io/rltoken/Mt-kMhgTyVzA2i5SYsWBwQ "Everything you need to know to start with C.pdf") (*You do not have to learn everything in there yet, but make sure you read it entirely first*)
 -   [Dennis Ritchie](https://alx-intranet.hbtn.io/rltoken/YWFrRob_-Yo-_NQikMLI-g "Dennis Ritchie")
 -   ["C" Programming Language: Brian Kernighan](https://alx-intranet.hbtn.io/rltoken/W4oygfMgAp5Hyc7o6QuSYQ ""C" Programming Language: Brian Kernighan")
+-	[“C” Programming Language: Brian Kernighan](https://intranet.alxswe.com/rltoken/W4oygfMgAp5Hyc7o6QuSYQ "“C” Programming Language: Brian Kernighan")
 -   [Why C Programming Is Awesome](https://alx-intranet.hbtn.io/rltoken/WYdE1novaWa0yt5fzGvLBw "Why C Programming Is Awesome")
 -   [Learning to program in C part 1](https://alx-intranet.hbtn.io/rltoken/aE_pZLbexuLroHA0FmjLbw "Learning to program in C part 1")
 -   [Learning to program in C part 2](https://alx-intranet.hbtn.io/rltoken/3a5y1N-0FlTaPbKRxlRLlQ "Learning to program in C part 2")
@@ -27,6 +29,7 @@ Resources
 -   `printf (3)`
 -   `puts`
 -   `putchar`
+
 
 Learning Objectives
 -------------------
@@ -49,6 +52,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 -   How to find the right header to include in your source code when using a standard library function
 -   How does the `main` function influence the return value of the program
 
+
 Requirements
 ------------
 
@@ -63,6 +67,7 @@ Requirements
 -   You are not allowed to use `system`
 -   Your code should use the `Betty` style. It will be checked using [betty-style.pl](https://github.com/holbertonschool/Betty/blob/master/betty-style.pl "betty-style.pl") and [betty-doc.pl](https://github.com/holbertonschool/Betty/blob/master/betty-doc.pl "betty-doc.pl")
 
+
 ### Shell Scripts
 
 -   Allowed editors: `vi`, `vim`, `emacs`
@@ -70,6 +75,7 @@ Requirements
 -   All your scripts should be exactly two lines long (`$ wc -l file` should print 2)
 -   All your files should end with a new line
 -   The first line of all your files should be exactly `#!/bin/bash`
+
 
 More Info
 ---------
@@ -117,9 +123,11 @@ You can now type `betty <filename>` to run the Betty linter!
 Tasks
 -----
 
-### 0\. Preprocessor
 
-mandatory
+**mandatory**
+
+-------------------------------------------------------
+### 0\. Preprocessor
 
 Write a script that runs a C file through the preprocessor and save the result into another file.
 
@@ -160,11 +168,13 @@ julien@ubuntu:~/c/0x00$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x00-hello_world`
 -   File: `0-preprocessor`
+-------------------------------------------------------
 
 
+
+
+-------------------------------------------------------
 ### 1\. Compiler
-
-mandatory
 
 Write a script that compiles a C file but does not link.
 
@@ -201,10 +211,13 @@ julien@ubuntu:~/c/0x00$ cat -v main.o | head
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x00-hello_world`
 -   File: `1-compiler`
+-------------------------------------------------------
 
+
+
+
+-------------------------------------------------------
 ### 2\. Assembler
-
-mandatory
 
 Write a script that generates the assembly code of a C code and save it in an output file.
 
@@ -260,10 +273,13 @@ julien@ubuntu:~/c/0x00$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x00-hello_world`
 -   File: `2-assembler`
+-------------------------------------------------------
 
+
+
+
+-------------------------------------------------------
 ### 3\. Name
-
-mandatory
 
 Write a script that compiles a C file and creates an executable named `cisfun`.
 
@@ -296,10 +312,13 @@ julien@ubuntu:~/c/0x00$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x00-hello_world`
 -   File: `3-name`
+-------------------------------------------------------
 
+
+
+
+-------------------------------------------------------
 ### 4\. Hello, puts
-
-mandatory
 
 Write a C program that prints exactly `"Programming is like building a multilingual puzzle`, followed by a new line.
 
@@ -321,11 +340,13 @@ julien@ubuntu:~/c/0x00$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x00-hello_world`
 -   File: `4-puts.c`
+-------------------------------------------------------
 
 
+
+
+-------------------------------------------------------
 ### 5\. Hello, printf
-
-mandatory
 
 Write a C program that prints exactly `with proper grammar, but the outcome is a piece of art,`, followed by a new line.
 
@@ -349,11 +370,13 @@ julien@ubuntu:~/c/0x00$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x00-hello_world`
 -   File: `5-printf.c`
+-------------------------------------------------------
 
 
+
+
+-------------------------------------------------------
 ### 6\. Size is not grandeur, and territory does not make a nation
-
-mandatory
 
 Write a C program that prints the size of various types on the computer it is compiled and run on.
 
@@ -388,12 +411,14 @@ julien@ubuntu:~/c/0x00$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x00-hello_world`
 -   File: `6-size.c`
+-------------------------------------------------------
 
- Done! Help Check your code Get a sandbox
 
+**advanced**
+
+
+-------------------------------------------------------
 ### 7\. Intel
-
-#advanced
 
 Write a script that generates the assembly code (Intel syntax) of a C code and save it in an output file.
 
@@ -448,12 +473,13 @@ julien@ubuntu:~/c/0x00$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x00-hello_world`
 -   File: `100-intel`
+-------------------------------------------------------
 
- Done! Help Check your code Get a sandbox
 
+
+
+-------------------------------------------------------
 ### 8\. UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity
-
-#advanced
 
 Write a C program that prints exactly `and that piece of art is useful" - Dora Korpar, 2015-10-19`, followed by a new line, to the standard error.
 
@@ -481,3 +507,5 @@ julien@ubuntu:~/c/0x00$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x00-hello_world`
 -   File: `101-quote.c`
+-------------------------------------------------------
+
