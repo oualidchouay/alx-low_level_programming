@@ -14,6 +14,7 @@ Concepts
 
 ![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/216/IMG_2410.JPG)
 
+
 Resources
 ---------
 
@@ -24,10 +25,12 @@ Resources
 -   [C - Strings](https://alx-intranet.hbtn.io/rltoken/sUeh9qDyW9pePOfJIpx_Bw "C - Strings")
 -   [Memory Layout](https://alx-intranet.hbtn.io/rltoken/0k6CD2ZMzSFOMUxMOBiAlQ "Memory Layout")
 
+
 Learning Objectives
 -------------------
 
 At the end of this project, you are expected to be able to [explain to anyone](https://alx-intranet.hbtn.io/rltoken/Snxxk_vBUNDA93PWmqdH3g "explain to anyone"), **without the help of Google**:
+
 
 ### General
 
@@ -36,6 +39,7 @@ At the end of this project, you are expected to be able to [explain to anyone](
 -   What are the differences between pointers and arrays
 -   How to use strings and how to manipulate them
 -   Scope of variables
+
 
 Requirements
 ------------
@@ -56,12 +60,21 @@ Requirements
 -   The prototypes of all your functions and the prototype of the function `_putchar` should be included in your header file called `main.h`
 -   Don't forget to push your header file
 
+More Info
+---------
+
+You do not need to learn about pointers to functions, pointers to pointers, multidimensional arrays, arrays of structures, `malloc` and `free` - yet.
+
+
 Tasks
 -----
 
-### 0\. 98 Battery st.
 
-mandatory
+**mandatory**
+
+
+---------------------------------------------------------
+### 0\. 98 Battery st.
 
 Write a function that takes a pointer to an `int` as parameter and updates the value it points to to `98`.
 
@@ -100,12 +113,13 @@ julien@ubuntu:~/0x05$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x05-pointers_arrays_strings`
 -   File: `0-reset_to_98.c`
+---------------------------------------------------------
 
- Done? Help Check your code
 
+
+
+---------------------------------------------------------
 ### 1\. Don't swap horses in crossing a stream
-
-mandatory
 
 Write a function that swaps the values of two integers.
 
@@ -146,12 +160,13 @@ julien@ubuntu:~/0x05$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x05-pointers_arrays_strings`
 -   File: `1-swap.c`
+---------------------------------------------------------
 
- Done? Help Check your code
 
+
+
+---------------------------------------------------------
 ### 2\. This report, by its very length, defends itself against the risk of being read
-
-mandatory
 
 Write a function that returns the length of a string.
 
@@ -191,12 +206,14 @@ julien@ubuntu:~/0x05$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x05-pointers_arrays_strings`
 -   File: `2-strlen.c`
+---------------------------------------------------------
 
- Done? Help Check your code
 
+
+
+
+---------------------------------------------------------
 ### 3\. I do not fear computers. I fear the lack of them
-
-mandatory
 
 Write a function that prints a string, followed by a new line, to `stdout`.
 
@@ -233,12 +250,13 @@ julien@ubuntu:~/0x05$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x05-pointers_arrays_strings`
 -   File: `3-puts.c`
+---------------------------------------------------------
 
- Done? Help Check your code
 
+
+
+---------------------------------------------------------
 ### 4\. I can only go one way. I've not got a reverse gear
-
-mandatory
 
 Write a function that prints a string, in reverse, followed by a new line.
 
@@ -273,12 +291,13 @@ julien@ubuntu:~/0x05$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x05-pointers_arrays_strings`
 -   File: `4-print_rev.c`
+---------------------------------------------------------
 
- Done? Help Check your code
 
+
+
+---------------------------------------------------------
 ### 5\. A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes
-
-mandatory
 
 Write a function that reverses a string.
 
@@ -316,12 +335,13 @@ julien@ubuntu:~/0x05$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x05-pointers_arrays_strings`
 -   File: `5-rev_string.c`
+---------------------------------------------------------
 
- Done? Help Check your code
 
+
+
+---------------------------------------------------------
 ### 6\. Half the lies they tell about me aren't true
-
-mandatory
 
 Write a function that prints every other character of a string, starting with the first character, followed by a new line.
 
@@ -356,12 +376,13 @@ julien@ubuntu:~/0x05$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x05-pointers_arrays_strings`
 -   File: `6-puts2.c`
+---------------------------------------------------------
 
- Done? Help Check your code
 
+
+
+---------------------------------------------------------
 ### 7\. Winning is only half of it. Having fun is the other half
-
-mandatory
 
 Write a function that prints half of a string, followed by a new line.
 
@@ -398,12 +419,13 @@ julien@ubuntu:~/0x05$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x05-pointers_arrays_strings`
 -   File: `7-puts_half.c`
+---------------------------------------------------------
 
- Done? Help Check your code
 
+
+
+---------------------------------------------------------
 ### 8\. Arrays are not pointers
-
-mandatory
 
 Write a function that prints `n` elements of an array of integers, followed by a new line.
 
@@ -447,12 +469,13 @@ julien@ubuntu:~/0x05$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x05-pointers_arrays_strings`
 -   File: `8-print_array.c`
+---------------------------------------------------------
 
- Done? Help Check your code
 
+
+
+---------------------------------------------------------
 ### 9\. strcpy
-
-mandatory
 
 -   Prototype: `char *_strcpy(char *dest, char *src);`
 
@@ -495,9 +518,14 @@ julien@ubuntu:~/0x05$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x05-pointers_arrays_strings`
 -   File: `9-strcpy.c`
+---------------------------------------------------------
 
+
+**advanced**
+
+
+---------------------------------------------------------
 ### 10\. Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers
-advanced
 
 Write a function that convert a string to an integer.
 
@@ -562,9 +590,13 @@ Repo:
 -	GitHub repository: `alx-low_level_programming`
 -	Directory: `0x05-pointers_arrays_strings`
 -	File: `100-atoi.c`
+---------------------------------------------------------
 
+
+
+
+---------------------------------------------------------
 ### 11\. Don't hate the hacker, hate the code
-advanced
 
 Create a program that generates random valid passwords for the program [101-crackme](https://github.com/alx-tools/0x04.c "101-crackme").
 
@@ -585,4 +617,4 @@ Repo:
 -	GitHub repository: `alx-low_level_programming`
 -	Directory: `0x05-pointers_arrays_strings`
 -	File: `101-keygen.c`
-
+---------------------------------------------------------
