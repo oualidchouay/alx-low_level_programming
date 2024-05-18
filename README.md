@@ -33,9 +33,9 @@ Each folder in this repository illustrates an essential concept of programming, 
 * [0x1A. C - Hash tables](./0x1A-hash_tables/)
 
 
-### Author:
+## Author
 
-https://github.com/oualidchouay
+- [oualidchouay](https://github.com/oualidchouay)
 
 
 ## Requirements
