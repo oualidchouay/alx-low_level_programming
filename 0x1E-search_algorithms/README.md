@@ -910,3 +910,20 @@ What is the `time complexity` (average case) of a jump search in a skip list o
 -   Directory: `0x1E-search_algorithms`
 -   File: `108-O`
 -------------------------------------------------------
+
+
+# Linear Search Algorithm
+
+This project implements a linear search algorithm in C.
+
+## Compilation
+
+Compile with: gcc -Wall -Wextra -Werror -pedantic -std=gnu89 0-main.c 0-linear.c -o 0-linear
+
+## Usage
+
+./0-linear
+
+## Authors
+
+oualidchouay
